@@ -18,7 +18,7 @@ class Program
     static async Task Main()
     {
         // Enter your Google Search API key here
-        string apiKey = "AIzaSyCtj9-Q5SEuFA43dUmjRLU7pezJlNjwup8";
+        string apiKey = "";  //your api key
 
         // Enter your search query here
         Console.WriteLine("Enter url");
